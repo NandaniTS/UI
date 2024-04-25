@@ -5,7 +5,7 @@ import Seventh from "./Seventh";
 const Sixth = () => {
   return (
     <>
-      <div className="flex items-center justify-around">
+      <div className="flex items-center justify-around flex-wrap">
       <div class=" ">
         <div class= " max-w-[380px] h-[750px]  bg-white shadow-md rounded-lg p-4">
           <div class="flex space-around">

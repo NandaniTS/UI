@@ -19,7 +19,7 @@ const First = () => {
       </a>
       <div>
         <img
-          src="../public/1.png"
+          src="src\assets\1.png"
           className="h-[250px] w-[250px] m-[70px]"
           alt=""
         />

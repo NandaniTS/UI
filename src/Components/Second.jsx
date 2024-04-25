@@ -22,7 +22,7 @@ const Second = ({ onSkip }) => {
           <div>
             <img
               className="h-[250px] w-[310px] m-[50px] mx-10"
-              src="public/2.png"
+              src="src\assets\2.png"
               alt=""
             />
             <h2 className="ml-2 text-2xl">Get Burn</h2>
